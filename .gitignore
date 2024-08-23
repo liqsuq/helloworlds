@@ -52,6 +52,6 @@ Mkfile.old
 dkms.conf
 
 # custom
-deb/
-rpm/
+deb/*.deb
+rpm/*/
 
