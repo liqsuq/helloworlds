@@ -5,7 +5,7 @@ FC := gfortran
 
 all: $(BINARY)
 clean:
-	$(RM) -r $(BINARY) root
+	$(RM) -r $(BINARY)
 
 hello_c: hello_c.c
 hello_cpp: hello_cpp.cpp
